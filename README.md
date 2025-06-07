@@ -38,7 +38,7 @@ We build tools that:
 
 ## 📬 Contact
 
-- ✉️ Email: **contact@trkelnit.com**
+- ✉️ Email: **rafik.khelifa.toudjine@gmail.com**
 - 🌐 Website: _Coming soon_
 
 ---
