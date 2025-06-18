@@ -39,8 +39,5 @@ We build tools that:
 ## 📬 Contact
 
 - ✉️ Email: **rafik.khelifa.toudjine@gmail.com**
-- 🌐 Website: _Coming soon_
 
----
-
-> Created with passion by Rafik — Electronics & Software Engineer | Canada
+> Created with passion by Rafik — Electronics & Software Engineer 
