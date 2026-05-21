@@ -8,7 +8,7 @@ We work at the intersection of embedded systems, cloud technology, and artificia
 
 ## 🔗 Links
 
-- Website: https://trkelnit.github.io/
+- Website: https://trkelnit.com/
 
 ---
 ## 🧠 What We Do
